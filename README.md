@@ -1,5 +1,7 @@
 # zan-html-to-ppt · HTML deck → PDF + PPTX
 
+[![AgentShield Security](https://merx.help/badge/A+.svg)](https://merx.help/shield)
+
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-6B5B95?style=flat-square)
 ![Node](https://img.shields.io/badge/Node-%3E%3D18-339933?style=flat-square)
